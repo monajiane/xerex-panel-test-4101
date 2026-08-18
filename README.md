@@ -1,2 +1,2 @@
-# xerex-panel-test-4101
+# xerex-cms
 Test repo for permission check
